@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Me
 
-<!--
-**oggycyber/oggycyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in cyber security field and developing myself in that way. I’m working on topics such as:
+- web development (React.js)
+- golang
+- c/c#
+- computer networks
+- theory of operating systems
+- database management systems (MSSQL, Oracle SQL)
+- offensive & defensive security
+- cryptology
+- intelligence analysis (OSINT)
